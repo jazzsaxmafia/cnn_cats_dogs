@@ -1,4 +1,4 @@
-### solver.protoxtx
+### solver.prototxt
 * net, snapshot_prefix 경로 환경에 맞게 설정 
 
 ### train_val.prototxt
